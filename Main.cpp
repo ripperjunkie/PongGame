@@ -4,6 +4,8 @@
 #include <string>
 #include <random>
 
+using namespace Raylib;
+
 #define VICTORYSCORE 3
 
 Vector2& operator-(Vector2& vector)
